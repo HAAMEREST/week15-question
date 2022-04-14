@@ -10,7 +10,7 @@ app.use(express.static('public'));
 app.get('/', (req, res) => {
 
     
-    let url = 'https://api.themoviedb.org/3/movie/550988?api_key=4ca94f8b470d7e34bd3f59c3914295c8';
+    let url = 'https://api.themoviedb.org/3/movie/550?api_key=93e2273331cd7f30d1433d9ae448e713';
     axios.get(url)
     .then(response => {
         console.log(response.data.title);
