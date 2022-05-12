@@ -202,7 +202,8 @@ footer ul li a {
 
 .chat-container{
     position: fixed;
-    bottom: 0;
+    bottom: 5rem;
     right: 0;
-    width:  150px;
+    height: 300px;
+   
 }
