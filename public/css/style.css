@@ -199,3 +199,9 @@ footer ul li a {
 .movie-poster-modal{
     width: 300px;
 }
+
+.chat-container{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
