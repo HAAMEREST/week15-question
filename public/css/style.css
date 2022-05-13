@@ -145,7 +145,7 @@ footer ul li a {
     opacity: 0;
     animation: fade-in 3.5s ease-in-out forwards;
     animation-delay: 1.5s;
-    width: 800px;
+    width: 1300px;
     box-sizing: border-box;
     color: aqua;
 }
